@@ -35,13 +35,15 @@ The following screenshots illustrate the project's user interface, system archit
     </td>
 <td align="center" width="50%">
   <strong>🌾 Soil Parameter Input</strong><br><br>
-  <a href="https://github.com/venkat24-dev/Smart-Agro-Crop-Recommendation-System/blob/main/smart%20crop%20agro%20system%20assests/agro%20system%20value%20sinput%20ui.png">
+
+  <a href="https://github.com/venkat24-dev/Smart-Agro-Crop-Recommendation-System/blob/main/smart%20crop%20agro%20system%20assests/agro%20sytem%20value%20sinput%20ui.png">
     <img
-      src="https://raw.githubusercontent.com/venkat24-dev/Smart-Agro-Crop-Recommendation-System/main/smart%20crop%20agro%20system%20assests/agro%20system%20value%20sinput%20ui.png"
+      src="https://raw.githubusercontent.com/venkat24-dev/Smart-Agro-Crop-Recommendation-System/main/smart%20crop%20agro%20system%20assests/agro%20sytem%20value%20sinput%20ui.png"
       alt="Smart Agro soil parameter input interface"
       width="100%"
     >
   </a><br>
+
   <sub>Enter soil-related values used by the crop recommendation workflow.</sub>
 </td>
 </tr>
