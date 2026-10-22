@@ -20,17 +20,6 @@ An AI-based crop recommendation project designed to help identify suitable crops
 
 ---
 
-## ✨ Key Highlights
-
-- **Soil Image Classification:** CNN-based soil image classification, with 98% accuracy reported for the project.
-- **Crop Recommendation:** Machine learning-based crop prediction using Random Forest and Gradient Boosting, with 96% accuracy reported for the project.
-- **Top-3 Recommendations:** Presents multiple crop suggestions to support comparison and decision-making.
-- **Web Application:** Provides an interface for entering soil information and viewing recommendations.
-- **Data-Driven Approach:** Combines soil-related information and environmental inputs to support agricultural decision-making.
-- **Research Presentation:** Project work presented at ISAA 2026, University of Nizwa, Oman.
-
-*Reported model accuracy reflects the project's evaluation results; actual performance depends on the evaluation data and real-world conditions.*
-
 ## 📸 Application Preview
 
 The following screenshots illustrate the project's user interface, system architecture, and output presentation.
@@ -44,15 +33,19 @@ The following screenshots illustrate the project's user interface, system archit
       </a><br>
       <sub>Upload a soil image for the image-classification workflow.</sub>
     </td>
-    <td align="center" width="50%">
-      <strong>🌾 Soil Parameter Input</strong><br><br>
-      <a href="smart%20crop%20agro%20system%20assests/agro%20system%20value%20sinput%20ui.png">
-        <img src="smart%20crop%20agro%20system%20assests/agro%20system%20value%20sinput%20ui.png" alt="Soil value input interface" width="100%">
-      </a><br>
-      <sub>Enter soil-related values used by the crop recommendation workflow.</sub>
-    </td>
-  </tr>
-  <tr>
+<td align="center" width="50%">
+  <strong>🌾 Soil Parameter Input</strong><br><br>
+  <a href="https://github.com/venkat24-dev/Smart-Agro-Crop-Recommendation-System/blob/main/smart%20crop%20agro%20system%20assests/agro%20system%20value%20sinput%20ui.png">
+    <img
+      src="https://raw.githubusercontent.com/venkat24-dev/Smart-Agro-Crop-Recommendation-System/main/smart%20crop%20agro%20system%20assests/agro%20system%20value%20sinput%20ui.png"
+      alt="Smart Agro soil parameter input interface"
+      width="100%"
+    >
+  </a><br>
+  <sub>Enter soil-related values used by the crop recommendation workflow.</sub>
+</td>
+</tr>
+<tr>
     <td align="center" width="50%">
       <strong>🏗️ System Architecture</strong><br><br>
       <a href="smart%20crop%20agro%20system%20assests/architecture%20image.png">
@@ -75,6 +68,19 @@ The following screenshots illustrate the project's user interface, system archit
 - **GitHub Repository:** https://github.com/venkat24-dev/Smart-Agro-Crop-Recommendation-System
 - **Conference Paper:** [Open PDF](smart%20crop%20agro%20system%20assests/IEEE_Conference_Smart%20Agro%20System%20for%20Crop%20Recommendation.pdf)
 - **ISAA 2026 Presentation:** [Open PowerPoint](smart%20crop%20agro%20system%20assests/ISAA2026_Presentation.pptx)
+
+  
+## ✨ Key Highlights
+
+- **Soil Image Classification:** CNN-based soil image classification, with 98% accuracy reported for the project.
+- **Crop Recommendation:** Machine learning-based crop prediction using Random Forest and Gradient Boosting, with 96% accuracy reported for the project.
+- **Top-3 Recommendations:** Presents multiple crop suggestions to support comparison and decision-making.
+- **Web Application:** Provides an interface for entering soil information and viewing recommendations.
+- **Data-Driven Approach:** Combines soil-related information and environmental inputs to support agricultural decision-making.
+- **Research Presentation:** Project work presented at ISAA 2026, University of Nizwa, Oman.
+
+*Reported model accuracy reflects the project's evaluation results; actual performance depends on the evaluation data and real-world conditions.*
+
 
 ## ⚙️ How It Works
 
